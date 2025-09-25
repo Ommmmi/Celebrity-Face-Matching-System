@@ -15,7 +15,7 @@ Fast and scalable implementation for real-time face matching.
 
 Installation
 
-Prerequisite
+Prerequisites
 
 Ensure you have Python 3.x installed along with the required dependencies.
 
@@ -64,6 +64,3 @@ Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-License
-
-This project is licensed under the MIT License.
