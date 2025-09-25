@@ -15,7 +15,7 @@ Fast and scalable implementation for real-time face matching.
 
 Installation
 
-Prerequisites
+Prerequisite
 
 Ensure you have Python 3.x installed along with the required dependencies.
 
